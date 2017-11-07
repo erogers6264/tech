@@ -29,7 +29,7 @@ class LinkedList(object):
         pass
 
     def delete_first(self):
-        "Delete the first (head) element in the LinkedList as return it"
+        "Delete the first (head) element in the LinkedList and return it"
         pass
 
 class Stack(object):
